@@ -1,3 +1,6 @@
+php artisan serve
+npm run dev
+
 Menu principal (navbar)
 resources > js > layouts > AuthenticatedLayout
 
